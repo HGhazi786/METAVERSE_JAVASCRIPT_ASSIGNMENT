@@ -1,0 +1,3 @@
+let text = "LIFE IS A JOURNEY NOT A DESTINATION";
+let NAME = 'RALPH WALDO EMERSON'
+alert(NAME+'ONCE SAID '+text);
