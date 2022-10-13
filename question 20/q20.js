@@ -1,9 +1,10 @@
-// js object
-let school={
-     class_rooms:10,
-     labs:5,
-     washrooms:8,
-     playgrounds:2,
-     canteen:1
+let my_list= new Array();
+let i=1
+while(i==1)
+{
+    r=prompt("enter your list");
+    my_list.push(r);
+    i=prompt("press 0 if you want to exit making list or 1 if you want to:");
 }
-console.log("no of labs in school:",school.labs)
+console.log("your list",my_list)
+
