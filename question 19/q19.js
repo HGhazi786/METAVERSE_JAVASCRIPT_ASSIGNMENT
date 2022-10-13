@@ -41,4 +41,4 @@ for(i=0;i<2;i++)
     guest_list.pop()
 }
     console.log(guest_list)
-    console.log("Number of people invited=",guest_list.length)//finding the last guest
+    console.log("Number of people invited=",guest_list.length)//finding the length of guest
